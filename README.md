@@ -12,6 +12,5 @@ I keep fragments of thoughts in **0x0000001a** - [here](https://0x0000001a.cbrwv
 ## О себе  
 
 \# &nbsp; Пишу код. Чаще на PHP, иногда на Python.  
-\# &nbsp; Системы рушатся. Я лишь пытаюсь придать им форму перед распадом.
 
 Мысли - в **0x0000001a**: [сюда](https://0x0000001a.cbrwvy.ru).  
